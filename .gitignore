@@ -1,0 +1,9 @@
+# Data / secrets — never commit real business data
+*.xlsx
+*.xls
+*.csv
+*.pdf
+export/
+.env
+__pycache__/
+*.pyc
